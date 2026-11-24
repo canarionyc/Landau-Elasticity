@@ -1,0 +1,718 @@
+{
+  "nodes": [
+    {
+      "id": "grp_landau",
+      "type": "group",
+      "x": 0,
+      "y": 0,
+      "width": 1140,
+      "height": 740,
+      "label": "1. Landau & Lifshitz - Classical Elasticity (Vol. 7)",
+      "color": "1"
+    },
+    {
+      "id": "n_vault_home",
+      "type": "file",
+      "x": 30,
+      "y": 60,
+      "width": 340,
+      "height": 110,
+      "file": "notes/00-Maps/Vault Home.md"
+    },
+    {
+      "id": "n_moc_landau",
+      "type": "file",
+      "x": 400,
+      "y": 60,
+      "width": 340,
+      "height": 110,
+      "file": "notes/00-Maps/MOC - Landau Theory of Elasticity.md"
+    },
+    {
+      "id": "n_sphere",
+      "type": "file",
+      "x": 770,
+      "y": 60,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Landau/Spherically Symmetric Elasticity (Landau \u00a77).md"
+    },
+    {
+      "id": "n_cyl",
+      "type": "file",
+      "x": 30,
+      "y": 195,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Landau/Cylindrical Elasticity Under Pressure and Rotation (Landau \u00a77).md"
+    },
+    {
+      "id": "n_torsion",
+      "type": "file",
+      "x": 400,
+      "y": 195,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Landau/Torsion of Non-Circular Rods and Prandtl Soap-Film Analogy (Landau \u00a716).md"
+    },
+    {
+      "id": "n_helix",
+      "type": "file",
+      "x": 770,
+      "y": 195,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Landau/Helicoidal Rods, Coil Springs, and Elastic Free Energy (Landau \u00a719).md"
+    },
+    {
+      "id": "n_euler",
+      "type": "file",
+      "x": 30,
+      "y": 330,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Landau/Small Rod Deflection and Euler Buckling (Landau \u00a720-\u00a721).md"
+    },
+    {
+      "id": "n_garland",
+      "type": "file",
+      "x": 400,
+      "y": 330,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Landau/Plate Buckling and Garland Curves in Box Girder Bridges.md"
+    },
+    {
+      "id": "n_elastica",
+      "type": "file",
+      "x": 770,
+      "y": 330,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Landau/Euler Elastica and Post-Buckling Stability.md"
+    },
+    {
+      "id": "n_bifurc",
+      "type": "file",
+      "x": 30,
+      "y": 465,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Landau/Bifurcation Theory and Double-Well Free Energy.md"
+    },
+    {
+      "id": "n_plate_bend",
+      "type": "file",
+      "x": 400,
+      "y": 465,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Landau/Navier Plate Bending and Circular Plate Curvatures (Landau \u00a711-\u00a712).md"
+    },
+    {
+      "id": "n_plate_vib",
+      "type": "file",
+      "x": 770,
+      "y": 465,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Landau/Membrane vs Circular Plate Vibrations and Dispersion.md"
+    },
+    {
+      "id": "n_dome",
+      "type": "file",
+      "x": 30,
+      "y": 600,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Landau/Spherical Dome Membrane Equilibrium and the Golden Transition (Landau \u00a714).md"
+    },
+    {
+      "id": "n_geckeler",
+      "type": "file",
+      "x": 400,
+      "y": 600,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Landau/Shell Edge Bending Boundary Layer (Geckeler Approximation).md"
+    },
+    {
+      "id": "grp_love",
+      "type": "group",
+      "x": 1220,
+      "y": 0,
+      "width": 770,
+      "height": 605,
+      "label": "2. A. E. H. Love (1906) - Curvilinear Tensors & Shells",
+      "color": "5"
+    },
+    {
+      "id": "n_moc_love",
+      "type": "file",
+      "x": 1250,
+      "y": 60,
+      "width": 340,
+      "height": 110,
+      "file": "notes/00-Maps/MOC - Love Curvilinear Tensors and Shells.md"
+    },
+    {
+      "id": "n_love_tensor",
+      "type": "file",
+      "x": 1620,
+      "y": 60,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Love-Tensors-Shells/Modernizing Love's Elasticity with 4th-Order Tensors.md"
+    },
+    {
+      "id": "n_christoffel",
+      "type": "file",
+      "x": 1250,
+      "y": 195,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Love-Tensors-Shells/From Love Scale Factors to Metric Tensors and Christoffel Symbols.md"
+    },
+    {
+      "id": "n_torus",
+      "type": "file",
+      "x": 1620,
+      "y": 195,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Love-Tensors-Shells/Toroidal Coordinates and the Grad-Shafranov Equation.md"
+    },
+    {
+      "id": "n_morpheus",
+      "type": "file",
+      "x": 1250,
+      "y": 330,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Love-Tensors-Shells/Free-Form Architecture vs Symmetric Coordinates (Morpheus Case).md"
+    },
+    {
+      "id": "n_finite",
+      "type": "file",
+      "x": 1620,
+      "y": 330,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Love-Tensors-Shells/Finite Elasticity and Anisotropic Curved Solids.md"
+    },
+    {
+      "id": "n_shell",
+      "type": "file",
+      "x": 1250,
+      "y": 465,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Love-Tensors-Shells/General Shell Theory and Paraboloid Membrane Solution (Love Ch. XXIV).md"
+    },
+    {
+      "id": "n_note_tensor",
+      "type": "text",
+      "x": 1620,
+      "y": 465,
+      "width": 340,
+      "height": 110,
+      "text": "### Synthesis: Metric vs. Mesh\nSymmetric shapes (sphere, torus, paraboloid) yield exact PDEs via $g_{ij}$, $b_{ij}$, and $\\Gamma^k_{ij}$. Free-form shells (Morpheus) switch to Cartesian FEM + principal stress lines."
+    },
+    {
+      "id": "grp_savin",
+      "type": "group",
+      "x": 2060,
+      "y": 0,
+      "width": 770,
+      "height": 605,
+      "label": "3. Savin & Muskhelishvili - Cavities & Fracture",
+      "color": "6"
+    },
+    {
+      "id": "n_moc_savin",
+      "type": "file",
+      "x": 2090,
+      "y": 60,
+      "width": 340,
+      "height": 110,
+      "file": "notes/00-Maps/MOC - Savin and Muskhelishvili Cavities.md"
+    },
+    {
+      "id": "n_conformal",
+      "type": "file",
+      "x": 2460,
+      "y": 60,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Savin-Muskhelishvili-Cavities/Conformal Mapping and Muskhelishvili Complex Potentials for Elliptical Cavities.md"
+    },
+    {
+      "id": "n_waterfall",
+      "type": "file",
+      "x": 2090,
+      "y": 195,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Savin-Muskhelishvili-Cavities/Hierarchy of Plane-Stress Elliptical Cavity Boundary Conditions.md"
+    },
+    {
+      "id": "n_mansfield",
+      "type": "file",
+      "x": 2460,
+      "y": 195,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Savin-Muskhelishvili-Cavities/Kirsch Circle, Harmonic Ellipse, and Mansfield Neutral Hole.md"
+    },
+    {
+      "id": "n_matlab_opt",
+      "type": "file",
+      "x": 2090,
+      "y": 330,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Savin-Muskhelishvili-Cavities/Hole Shape Optimization and Inverse Problems in MATLAB.md"
+    },
+    {
+      "id": "n_rabotnov",
+      "type": "file",
+      "x": 2460,
+      "y": 330,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Savin-Muskhelishvili-Cavities/Viscoelastic Stress Relaxation - Zener vs Rabotnov Models (Savin Ch. XII).md"
+    },
+    {
+      "id": "n_slipzone",
+      "type": "file",
+      "x": 2090,
+      "y": 465,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Savin-Muskhelishvili-Cavities/Elasto-Plastic Slip Zones and Ductile Fracture Limits (Savin Ch. V & VIII).md"
+    },
+    {
+      "id": "n_note_2d3d",
+      "type": "text",
+      "x": 2460,
+      "y": 465,
+      "width": 340,
+      "height": 110,
+      "text": "### Synthesis: 2D vs. 3D Holes\n2D cutouts use Joukowsky conformal mapping $z = R(\\zeta + m/\\zeta)$ and Mansfield liners; 3D cavities use Landau \u00a77 radial symmetry or FEM."
+    },
+    {
+      "id": "grp_dyn",
+      "type": "group",
+      "x": 0,
+      "y": 820,
+      "width": 770,
+      "height": 335,
+      "label": "4. Elastodynamics & Seismic Control",
+      "color": "2"
+    },
+    {
+      "id": "n_navier_cauchy",
+      "type": "file",
+      "x": 30,
+      "y": 880,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Elastodynamics-Waves/Navier-Cauchy Equations and Body Wave Helmholtz Decomposition (Landau \u00a722, \u00a724).md"
+    },
+    {
+      "id": "n_rayleigh",
+      "type": "file",
+      "x": 400,
+      "y": 880,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Elastodynamics-Waves/Rayleigh Surface Waves and the Cubic Velocity Equation.md"
+    },
+    {
+      "id": "n_love_wave",
+      "type": "file",
+      "x": 30,
+      "y": 1015,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Elastodynamics-Waves/Love Surface Waves and Crustal Waveguide Dispersion.md"
+    },
+    {
+      "id": "n_tmd",
+      "type": "file",
+      "x": 400,
+      "y": 1015,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Elastodynamics-Waves/Tuned Mass Dampers and Seismic Wave Control.md"
+    },
+    {
+      "id": "grp_num",
+      "type": "group",
+      "x": 840,
+      "y": 820,
+      "width": 1140,
+      "height": 335,
+      "label": "5. Spectral FFT, FDM/FEM & Rust Frames",
+      "color": "4"
+    },
+    {
+      "id": "n_moc_comp",
+      "type": "file",
+      "x": 870,
+      "y": 880,
+      "width": 340,
+      "height": 110,
+      "file": "notes/00-Maps/MOC - Computational Methods and Structural Engineering.md"
+    },
+    {
+      "id": "n_fft_bc",
+      "type": "file",
+      "x": 1240,
+      "y": 880,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Numerical-Methods-FFT-FEM/Spatial FFT and Boundary Conditions - DST, DCT, and Chebyshev.md"
+    },
+    {
+      "id": "n_k_rosetta",
+      "type": "file",
+      "x": 1610,
+      "y": 880,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Numerical-Methods-FFT-FEM/Time vs Space Notation Rosetta Stone and Landau Wavevector k.md"
+    },
+    {
+      "id": "n_fdm_fem",
+      "type": "file",
+      "x": 870,
+      "y": 1015,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Numerical-Methods-FFT-FEM/FDM vs FEM and Hermite Cubic Shape Functions for Buckling.md"
+    },
+    {
+      "id": "n_rust2d",
+      "type": "file",
+      "x": 1240,
+      "y": 1015,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Structural-Engineering-Frames/2D Truss and Frame Data Structures in Rust.md"
+    },
+    {
+      "id": "n_rust3d",
+      "type": "file",
+      "x": 1610,
+      "y": 1015,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Structural-Engineering-Frames/3D Welded Frame Stiffness, I-Beam Orientation, and Global Assembly.md"
+    },
+    {
+      "id": "grp_off",
+      "type": "group",
+      "x": 2060,
+      "y": 820,
+      "width": 770,
+      "height": 335,
+      "label": "6. Off-Topic: Dynamical Systems & Raw Archive",
+      "color": "3"
+    },
+    {
+      "id": "n_predprey",
+      "type": "file",
+      "x": 2090,
+      "y": 880,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Dynamical-Systems/Predator-Prey Models - Lotka-Volterra vs Rosenzweig-MacArthur.md"
+    },
+    {
+      "id": "n_jacobian",
+      "type": "file",
+      "x": 2460,
+      "y": 880,
+      "width": 340,
+      "height": 110,
+      "file": "notes/Dynamical-Systems/Linear Stability Analysis and Jacobian Eigenvalues (Lotka-Volterra).md"
+    },
+    {
+      "id": "n_archive",
+      "type": "file",
+      "x": 2090,
+      "y": 1015,
+      "width": 340,
+      "height": 110,
+      "file": "md/ARCHIVE.md"
+    },
+    {
+      "id": "n_note_arch",
+      "type": "text",
+      "x": 2460,
+      "y": 1015,
+      "width": 340,
+      "height": 110,
+      "text": "### Archive Policy\nOriginal 10 Gemini exports remain preserved in `md/` (with `(2).md` superseding `.md` and `(1).md`)."
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_1",
+      "fromNode": "n_sphere",
+      "fromSide": "right",
+      "toNode": "n_christoffel",
+      "toSide": "left",
+      "label": "automated metric derivation"
+    },
+    {
+      "id": "edge_2",
+      "fromNode": "n_sphere",
+      "fromSide": "right",
+      "toNode": "n_finite",
+      "toSide": "left",
+      "label": "nonlinear rubber inflation"
+    },
+    {
+      "id": "edge_3",
+      "fromNode": "n_sphere",
+      "fromSide": "right",
+      "toNode": "n_mansfield",
+      "toSide": "left",
+      "label": "3D cavity vs 2D Kirsch"
+    },
+    {
+      "id": "edge_4",
+      "fromNode": "n_torsion",
+      "fromSide": "bottom",
+      "toNode": "n_helix",
+      "toSide": "top",
+      "label": "torsional energy of coil"
+    },
+    {
+      "id": "edge_5",
+      "fromNode": "n_torsion",
+      "fromSide": "bottom",
+      "toNode": "n_rust3d",
+      "toSide": "top",
+      "label": "low J of open I-beams"
+    },
+    {
+      "id": "edge_6",
+      "fromNode": "n_euler",
+      "fromSide": "bottom",
+      "toNode": "n_elastica",
+      "toSide": "top",
+      "label": "exact large deflection"
+    },
+    {
+      "id": "edge_7",
+      "fromNode": "n_euler",
+      "fromSide": "right",
+      "toNode": "n_garland",
+      "toSide": "left",
+      "label": "1D rod to 2D plate"
+    },
+    {
+      "id": "edge_8",
+      "fromNode": "n_euler",
+      "fromSide": "bottom",
+      "toNode": "n_fdm_fem",
+      "toSide": "top",
+      "label": "FDM vs FEM buckling"
+    },
+    {
+      "id": "edge_9",
+      "fromNode": "n_elastica",
+      "fromSide": "right",
+      "toNode": "n_bifurc",
+      "toSide": "left",
+      "label": "double-well potential"
+    },
+    {
+      "id": "edge_10",
+      "fromNode": "n_bifurc",
+      "fromSide": "right",
+      "toNode": "n_predprey",
+      "toSide": "left",
+      "label": "pitchfork vs Hopf bifurcation"
+    },
+    {
+      "id": "edge_11",
+      "fromNode": "n_plate_bend",
+      "fromSide": "right",
+      "toNode": "n_plate_vib",
+      "toSide": "left",
+      "label": "static vs dynamic biharmonic"
+    },
+    {
+      "id": "edge_12",
+      "fromNode": "n_plate_bend",
+      "fromSide": "bottom",
+      "toNode": "n_dome",
+      "toSide": "top",
+      "label": "bending vs membrane shell"
+    },
+    {
+      "id": "edge_13",
+      "fromNode": "n_dome",
+      "fromSide": "right",
+      "toNode": "n_geckeler",
+      "toSide": "left",
+      "label": "chain restraint boundary layer"
+    },
+    {
+      "id": "edge_14",
+      "fromNode": "n_dome",
+      "fromSide": "right",
+      "toNode": "n_shell",
+      "toSide": "left",
+      "label": "spherical vs paraboloid shell"
+    },
+    {
+      "id": "edge_15",
+      "fromNode": "n_love_tensor",
+      "fromSide": "bottom",
+      "toNode": "n_christoffel",
+      "toSide": "top",
+      "label": "scale factors to metric"
+    },
+    {
+      "id": "edge_16",
+      "fromNode": "n_christoffel",
+      "fromSide": "bottom",
+      "toNode": "n_torus",
+      "toSide": "top",
+      "label": "swap metric for torus"
+    },
+    {
+      "id": "edge_17",
+      "fromNode": "n_torus",
+      "fromSide": "right",
+      "toNode": "n_morpheus",
+      "toSide": "left",
+      "label": "symmetry vs free-form FEM"
+    },
+    {
+      "id": "edge_18",
+      "fromNode": "n_morpheus",
+      "fromSide": "bottom",
+      "toNode": "n_shell",
+      "toSide": "top",
+      "label": "thick solid vs thin resultant"
+    },
+    {
+      "id": "edge_19",
+      "fromNode": "n_conformal",
+      "fromSide": "bottom",
+      "toNode": "n_waterfall",
+      "toSide": "top",
+      "label": "Eq. 34 BC progression"
+    },
+    {
+      "id": "edge_20",
+      "fromNode": "n_conformal",
+      "fromSide": "right",
+      "toNode": "n_mansfield",
+      "toSide": "left",
+      "label": "optimal & neutral holes"
+    },
+    {
+      "id": "edge_21",
+      "fromNode": "n_mansfield",
+      "fromSide": "bottom",
+      "toNode": "n_matlab_opt",
+      "toSide": "top",
+      "label": "inverse shape optimization"
+    },
+    {
+      "id": "edge_22",
+      "fromNode": "n_mansfield",
+      "fromSide": "bottom",
+      "toNode": "n_rabotnov",
+      "toSide": "top",
+      "label": "viscoelastic K_t(t)"
+    },
+    {
+      "id": "edge_23",
+      "fromNode": "n_rabotnov",
+      "fromSide": "right",
+      "toNode": "n_slipzone",
+      "toSide": "left",
+      "label": "relaxation vs slip zone"
+    },
+    {
+      "id": "edge_24",
+      "fromNode": "n_navier_cauchy",
+      "fromSide": "right",
+      "toNode": "n_rayleigh",
+      "toSide": "left",
+      "label": "P-SV free surface"
+    },
+    {
+      "id": "edge_25",
+      "fromNode": "n_navier_cauchy",
+      "fromSide": "bottom",
+      "toNode": "n_love_wave",
+      "toSide": "top",
+      "label": "SH crustal waveguide"
+    },
+    {
+      "id": "edge_26",
+      "fromNode": "n_love_wave",
+      "fromSide": "right",
+      "toNode": "n_tmd",
+      "toSide": "left",
+      "label": "90 deg lateral damping"
+    },
+    {
+      "id": "edge_27",
+      "fromNode": "n_rayleigh",
+      "fromSide": "bottom",
+      "toNode": "n_tmd",
+      "toSide": "top",
+      "label": "vertical base isolation"
+    },
+    {
+      "id": "edge_28",
+      "fromNode": "n_plate_vib",
+      "fromSide": "bottom",
+      "toNode": "n_navier_cauchy",
+      "toSide": "top",
+      "label": "2D dispersive vs 3D body"
+    },
+    {
+      "id": "edge_29",
+      "fromNode": "n_fft_bc",
+      "fromSide": "right",
+      "toNode": "n_k_rosetta",
+      "toSide": "left",
+      "label": "2pi & L&L wavevector k"
+    },
+    {
+      "id": "edge_30",
+      "fromNode": "n_fft_bc",
+      "fromSide": "top",
+      "toNode": "n_shell",
+      "toSide": "bottom",
+      "label": "spectral non-FEA shells"
+    },
+    {
+      "id": "edge_31",
+      "fromNode": "n_rust2d",
+      "fromSide": "right",
+      "toNode": "n_rust3d",
+      "toSide": "left",
+      "label": "2D truss to 3D welded frame"
+    },
+    {
+      "id": "edge_32",
+      "fromNode": "n_predprey",
+      "fromSide": "right",
+      "toNode": "n_jacobian",
+      "toSide": "left",
+      "label": "purely imaginary center"
+    }
+  ]
+}

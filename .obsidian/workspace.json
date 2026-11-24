@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "1251c1868e5407bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6c658e45f863351",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4788ab7425f594e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Elasticity Knowledge Map.canvas",
+                "viewState": {
+                  "x": 1597.9263127913803,
+                  "y": 807.1171502258801,
+                  "zoom": -0.46709874938895063
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Elasticity Knowledge Map"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a756f29efdbfb38c",
+    "type": "split",
+    "children": [
+      {
+        "id": "941a642e230288d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a30df9b0e2f8f0c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a85e7d84480c26be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3967840d47cb8a00",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 460.8333435058594
+  },
+  "right": {
+    "id": "76edd6cd886cf685",
+    "type": "split",
+    "children": [
+      {
+        "id": "691a83ad22465aa1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c4989d77afeb548",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Elasticity Knowledge Map.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4b6f3eedc8d419e3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Elasticity Knowledge Map.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6e23cdd464a6168f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b1d8df9b6761bcac",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5c23b4bc6e65f3de",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Elasticity Knowledge Map.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d4788ab7425f594e",
+  "lastOpenFiles": [
+    "Elasticity Knowledge Map.canvas",
+    "md/ARCHIVE.md",
+    "notes/00-Maps/Vault Home.md",
+    "notes/00-Maps/MOC - Computational Methods and Structural Engineering.md",
+    "notes/00-Maps/MOC - Savin and Muskhelishvili Cavities.md",
+    "notes/00-Maps/MOC - Love Curvilinear Tensors and Shells.md",
+    "notes/00-Maps/MOC - Landau Theory of Elasticity.md",
+    "notes/00-Maps",
+    "notes/Structural-Engineering-Frames/3D Welded Frame Stiffness, I-Beam Orientation, and Global Assembly.md",
+    "notes/Structural-Engineering-Frames/2D Truss and Frame Data Structures in Rust.md",
+    "notes/Structural-Engineering-Frames",
+    "notes/Numerical-Methods-FFT-FEM/FDM vs FEM and Hermite Cubic Shape Functions for Buckling.md",
+    "notes/Numerical-Methods-FFT-FEM/Time vs Space Notation Rosetta Stone and Landau Wavevector k.md",
+    "notes/Numerical-Methods-FFT-FEM/Spatial FFT and Boundary Conditions - DST, DCT, and Chebyshev.md",
+    "notes/Numerical-Methods-FFT-FEM",
+    "notes/Savin-Muskhelishvili-Cavities/Elasto-Plastic Slip Zones and Ductile Fracture Limits (Savin Ch. V & VIII).md",
+    "notes/Savin-Muskhelishvili-Cavities/Viscoelastic Stress Relaxation - Zener vs Rabotnov Models (Savin Ch. XII).md",
+    "notes/Savin-Muskhelishvili-Cavities/Hole Shape Optimization and Inverse Problems in MATLAB.md",
+    "notes/Savin-Muskhelishvili-Cavities/Kirsch Circle, Harmonic Ellipse, and Mansfield Neutral Hole.md",
+    "notes/Savin-Muskhelishvili-Cavities/Hierarchy of Plane-Stress Elliptical Cavity Boundary Conditions.md",
+    "notes/Savin-Muskhelishvili-Cavities/Conformal Mapping and Muskhelishvili Complex Potentials for Elliptical Cavities.md",
+    "notes/Savin-Muskhelishvili-Cavities",
+    "notes/Dynamical-Systems/Linear Stability Analysis and Jacobian Eigenvalues (Lotka-Volterra).md",
+    "notes/Dynamical-Systems/Predator-Prey Models - Lotka-Volterra vs Rosenzweig-MacArthur.md",
+    "notes/Dynamical-Systems",
+    "notes/Elastodynamics-Waves/Tuned Mass Dampers and Seismic Wave Control.md",
+    "notes/Elastodynamics-Waves/Love Surface Waves and Crustal Waveguide Dispersion.md",
+    "notes/Elastodynamics-Waves/Rayleigh Surface Waves and the Cubic Velocity Equation.md",
+    "notes/Elastodynamics-Waves/Navier-Cauchy Equations and Body Wave Helmholtz Decomposition (Landau §22, §24).md",
+    "notes/Elastodynamics-Waves",
+    "notes/Love-Tensors-Shells/General Shell Theory and Paraboloid Membrane Solution (Love Ch. XXIV).md",
+    "notes/Love-Tensors-Shells/Finite Elasticity and Anisotropic Curved Solids.md",
+    "notes/Love-Tensors-Shells",
+    "notes/Landau",
+    "notes"
+  ]
+}
